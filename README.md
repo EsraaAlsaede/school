@@ -21,7 +21,7 @@ In this website there are many features like the following
 * [MySQL 8.0.26](https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html) - database management system
 
 ## Authors
-* Supervisor: [Gameel Elshaer](https://github.com/)
+* Supervisor: [Gameel Elshaer](https://github.com/GameelAlshaer)
 * Team leader: [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000)
 * [Islam Abououf](https://github.com/eng-islamAbououf)
 * [Abdalla Ashraf](https://github.com/Abdalla5355)
