@@ -1,4 +1,4 @@
-school
+School
 =======
 In this repo, we have created an API for a website makes it easy for **schools** to manege their work.
 In this website there are many features like the following
